@@ -9,4 +9,4 @@ SierpinskiTriangle 6
 ```
 This will generate a square image of 3^6 size each side.
 
-Currently a maximum of ``` size = 8 ``` is supported, becaue of Java heap space out of memory :/.
+Currently a maximum of ``` size = 8 ``` is supported, because of Java heap space out of memory :/.
