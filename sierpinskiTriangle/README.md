@@ -8,3 +8,5 @@ To call this script a parameter ``` size ``` must be provided:
 SierpinskiTriangle 10
 ```
 This will generate a square image of 2^10 size each side.
+
+Currently a maximum of ``` size = 13 ``` is supported, becaue of Java heap space out of memory :/.
